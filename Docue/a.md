@@ -50,4 +50,6 @@ Find has park kind arch land.
 
 Find has park mark.
 
+Find has park cross.
+
 Find has major.
